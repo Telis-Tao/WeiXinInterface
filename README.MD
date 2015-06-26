@@ -6,7 +6,6 @@
 
 3. likely ActionBar.
 
-![](https://raw.githubusercontent.com/Telisa/WeiXinInterface/master/app/screenshot/screenshots
-/2015-06-26-100605%40Telis.png)
+![](https://raw.githubusercontent.com/Telisa/WeiXinInterface/master/app/screenshots/2015-06-26-100605%40Telis.png)
 
 Any comments could contact <9simpsons@gmail.com>
