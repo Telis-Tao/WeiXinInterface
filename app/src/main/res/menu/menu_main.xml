@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+      <item
+          android:id="@+id/action_search"
+          android:actionViewClass="android.widget.SearchView"
+          android:icon="@drawable/ic_menu_search"
+          android:showAsAction="always"
+          android:title="@string/action_search"/>
+      <item
+          android:id="@+id/action_add"
+          android:icon="@drawable/ic_menu_btn_add"
+          android:showAsAction="always"
+          android:title="@string/action_add">
+            <menu>
+
+                  <item
+                      android:id="@+id/_group_chat"
+                      android:icon="@drawable/ic_menu_allfriends"
+                      android:showAsAction="never"
+                      android:title="@string/action_group_chat"/>
+                  <item
+                      android:id="@+id/menu_addfriend"
+                      android:icon="@drawable/ic_menu_invite"
+                      android:showAsAction="never"
+                      android:title="@string/menu_addfriend"/>
+                  <item
+                      android:id="@+id/menu_scan"
+                      android:icon="@drawable/ic_menu_sort_by_size"
+                      android:showAsAction="never"
+                      android:title="@string/menu_scan"/>
+                  <item
+                      android:id="@+id/menu_feedback"
+                      android:icon="@drawable/ic_menu_cc_am"
+                      android:showAsAction="never"
+                      android:title="@string/menu_feedback"/>
+
+            </menu>
+
+
+      </item>
+</menu>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">微信</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">查找</string>
+    <string name="action_add">添加</string>
+    <string name="action_group_chat">发起群聊</string>
+    <string name="menu_feedback">意见反馈</string>
+    <string name="menu_addfriend">添加朋友</string>
+    <string name="menu_scan">扫一扫</string>
+
+    <string name="tab_contact">通讯录</string>
+    <string name="tab_found">发现</string>
+    <string name="tab_me">我</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--颜色管理-->
+    <color name="gray_normal_text">#565656</color>
+    <color name="gray_light_text">#A2A2A2</color>
+    <color name="gray_light_background">#E3E3E3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="click_gray">#EAEAEA</color>
+
+</resources>
